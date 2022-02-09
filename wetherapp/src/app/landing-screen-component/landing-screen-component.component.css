@@ -1,0 +1,19 @@
+.landing-box{
+    margin: 50px;
+    border:2px solid gray;
+    padding:20px;
+  }
+  input[type="text"]{
+    width:200px;
+  }
+  .x-btn{
+    float:right;
+  }
+
+  .space{
+      margin-left: 40%;
+      margin-bottom: 10%;
+  }
+  .data{
+      margin-top: 5%;
+  }

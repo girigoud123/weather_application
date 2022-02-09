@@ -1,0 +1,17 @@
+img{
+    width:40px;
+    height:40px;
+  }
+  .weather-border{
+    border:2px solid black;
+    padding:10px;
+    margin-top:30px ;
+  }
+  .imds{
+      margin-left: 50%;
+  }
+
+  .weather-data{
+    width: 350px;
+    margin-left: 25px;
+  }
